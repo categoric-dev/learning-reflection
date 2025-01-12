@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="h"
+                 name="Home"
+                 start-page="starter-topic.md">
+
+    <toc-element topic="Sociology.md">
+        <toc-element topic="Organization.md"/>
+        <toc-element topic="Institutions.md">
+            <toc-element topic="IEEE.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="Philosophy.md">
+        <toc-element topic="Epistemology.md">
+            <toc-element topic="Knowledge.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="starter-topic.md">
+    </toc-element>
+</instance-profile>

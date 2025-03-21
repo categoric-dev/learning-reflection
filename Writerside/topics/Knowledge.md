@@ -1,11 +1,24 @@
 # Knowledge
 
-| Quality       | Truth     | Belief    | Justification | Explainability | Scope     | Acquisition | Transmissibility | Subjectivity | Practical Application | Reliability  |
-|:--------------|:----------|:----------|:--------------|:---------------|:----------|:------------|:-----------------|:-------------|:----------------------|:-------------|
-| Truth         | `Self`    | Intrinsic | Intrinsic     | Intrinsic      | Intrinsic | Extrinsic   | Extrinsic        | `Trait`      | Subjectivity          | Subjectivity | 
-| Belief        | Intrinsic | `Self`    | Intrinsic     | Intrinsic      | Intrinsic | Extrinsic   | Extrinsic        | `Trait`      | Subjectivity          | ---          | 
-| Justification | Intrinsic | Intrinsic | `Self`        | Intrinsic      | Intrinsic | Extrinsic   | Extrinsic        | `Trait`      | Subjectivity          | `Trait`      | 
+| Quality       | Truth     | Belief    | Justification | Explainability | Scope     |
+|:--------------|:----------|:----------|:--------------|:---------------|:----------|
+| Truth         | `Self`    | Intrinsic | Intrinsic     | Intrinsic      | Intrinsic |  
+| Belief        | Intrinsic | `Self`    | Intrinsic     | Intrinsic      | Intrinsic | 
+| Justification | Intrinsic | Intrinsic | `Self`        | Intrinsic      | Intrinsic | 
 
+
+| Quality       | Acquisition | Transmissibility |
+|:--------------|:------------|:-----------------|
+| Truth         | Extrinsic   | Extrinsic        |
+| Belief        | Extrinsic   | Extrinsic        |
+| Justification | Extrinsic   | Extrinsic        |
+
+
+| Quality       | Subjectivity | Practical Application | Reliability  |
+|:--------------|:-------------|:----------------------|:-------------|
+| Truth         | `Trait`      | Subjectivity          | Subjectivity |
+| Belief        | `Trait`      | Subjectivity          | ---          |
+| Justification | `Trait`      | Subjectivity          | `Trait`      |
 
 ## Truth
 

@@ -8,6 +8,7 @@
     <toc-element topic="ICT.md"/>
     <toc-element topic="Philosophy.md">
         <toc-element topic="Epistemology.md">
+            <toc-element topic="Identity.md"/>
             <toc-element topic="Understanding.md"/>
             <toc-element topic="Knowledge.md"/>
         </toc-element>

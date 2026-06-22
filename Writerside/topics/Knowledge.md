@@ -20,6 +20,7 @@
 | Belief        | `Trait`      | Subjectivity          | ---          |
 | Justification | `Trait`      | Subjectivity          | `Trait`      |
 
+
 ## Truth
 
 The heart of knowledge itself!  Let's explore how "truth" intertwines with each aspect:
